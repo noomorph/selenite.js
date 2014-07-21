@@ -1,0 +1,27 @@
+{
+  "name": "selenite",
+  "version": "0.1.0",
+  "description": "Runner of pure client-side javascript tests with Selenium WebDriver inside",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/noomorph/selenite.js"
+  },
+  "keywords": [
+    "selenium",
+    "webdriver",
+    "javascript",
+    "e2e",
+    "test",
+    "testing"
+  ],
+  "author": "Yaroslav Serhieiev <noomorph@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noomorph/selenite.js/issues"
+  },
+  "homepage": "https://github.com/noomorph/selenite.js"
+}
