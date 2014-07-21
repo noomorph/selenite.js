@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/noomorph/selenite.js/issues"
   },
-  "homepage": "https://github.com/noomorph/selenite.js"
+  "homepage": "https://github.com/noomorph/selenite.js",
+  "dependencies": {
+    "selenium-webdriver": "~2.42.1"
+  }
 }

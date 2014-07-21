@@ -1,0 +1,27 @@
+{
+  "name": "selenite.js",
+  "version": "0.1.0",
+  "homepage": "https://github.com/noomorph/selenite.js",
+  "authors": [
+    "Yaroslav Serhieiev <noomorph@gmail.com>"
+  ],
+  "description": "Runner of pure client-side javascript tests with Selenium WebDriver inside",
+  "main": "index.js",
+  "keywords": [
+    "selenium",
+    "webdriver",
+    "javascript",
+    "e2e",
+    "test",
+    "testing"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
